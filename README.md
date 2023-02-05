@@ -1,2 +1,2 @@
 # projeto-cordel
- Curso de JAVASCRIPT do CursoemVídeo
+Mini-projeto realizado em HTML5 e CSS3
